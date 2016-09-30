@@ -3,7 +3,6 @@
   "description": "AngularJS project to showcase my portfolio",
   "version": "0.0.0",
   "homepage": "https://github.com/JoyceMiryamH/angular-portfolio",
-  "license": "MIT",
   "private": true,
   "dependencies": {
     "angular": "1.5.x",
