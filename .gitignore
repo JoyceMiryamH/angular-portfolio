@@ -4,5 +4,5 @@ node_modules/
 tmp
 .idea
 .DS_Store
-angular-phonecat-snapshots
+angular-portfolio-snapshots
 bower_components/
